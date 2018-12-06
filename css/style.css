@@ -2909,7 +2909,7 @@ li {
   font-size: 15px;
   line-height: 26px;
   font-weight: 400;
-  color: #ababab;
+  color: white;
 }
 
 .footer-main .footer-top h6 {
@@ -2940,7 +2940,7 @@ li {
 
 .footer-main .footer-top .location-link .item i:before {
   font-size: 20px;
-  color: #ababab;
+  color: white;
 }
 
 .footer-main .footer-top .social-icons {
@@ -2973,7 +2973,7 @@ li {
   font-size: 15px;
   line-height: 26px;
   font-weight: 400;
-  color: #ababab;
+  color: white;
   letter-spacing: .5px;
   font-family: "Source Sans Pro", sans-serif;
 }
@@ -3019,7 +3019,7 @@ li {
 }
 
 .footer-main .footer-top .social-links span {
-  color: #ababab;
+  color: white;
   font-size: 15px;
   line-height: 26px;
   font-weight: 400;
@@ -3090,7 +3090,7 @@ li {
 .footer-bottom .copyright-text p {
   font-size: 15px;
   font-weight: 400;
-  color: #ababab;
+  color: white;
   line-height: 26px;
   margin-bottom: 0px;
   letter-spacing: .5px;
@@ -3098,7 +3098,7 @@ li {
 }
 
 .footer-bottom .copyright-text a {
-  color: #ababab;
+  color: white
 }
 
 .footer-bottom .footer-bottom-link {
@@ -3115,7 +3115,7 @@ li {
 .footer-bottom .footer-bottom-link li a {
   font-size: 15px;
   line-height: 26px;
-  color: #ababab;
+  color: white;
   font-weight: 400;
 }
 
