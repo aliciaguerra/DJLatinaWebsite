@@ -1732,7 +1732,7 @@ li {
   content: '';
   width: 100%;
   height: 100%;
-  background: #fca1f6;
+  /*background: #fca1f6;*/
 }
 
 .testimonial-section .section-title h3 {
